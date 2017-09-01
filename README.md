@@ -25,4 +25,4 @@ in the source package).
 ## References
 
 [1] Zhang, J. and Vaver, J. (2017)
-    [Introduction to the Aggregate Marketing System Simulator](https://research.google.com).
+    [Introduction to the Aggregate Marketing System Simulator](https://research.google.com/pubs/pub45996.html).
